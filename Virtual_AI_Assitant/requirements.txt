@@ -1,0 +1,6 @@
+speechrecognition
+pyaudio
+setuptools
+pyttsx3
+pocketsphinx
+google.generativeai
